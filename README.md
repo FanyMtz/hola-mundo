@@ -1,4 +1,4 @@
 # hola-mundo
-Prueba
+Ejemplo para Prueba
 
 Autor: Stephannie Martinez
